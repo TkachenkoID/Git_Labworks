@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|c:\\users\\dyaha\\desktop\\git_labworks\\bibliocontrol\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2097AE92-3DD9-4B96-AC33-40BA50D0AB78}|Tests\\Tests.csproj|c:\\users\\dyaha\\desktop\\git_labworks\\tests\\librarysystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2097AE92-3DD9-4B96-AC33-40BA50D0AB78}|Tests\\Tests.csproj|solutionrelative:tests\\librarysystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|c:\\users\\dyaha\\desktop\\git_labworks\\bibliocontrol\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2097AE92-3DD9-4B96-AC33-40BA50D0AB78}|Tests\\Tests.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\tests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2097AE92-3DD9-4B96-AC33-40BA50D0AB78}|Tests\\Tests.csproj|solutionrelative:tests\\booktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|c:\\users\\dyaha\\desktop\\git_labworks\\bibliocontrol\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2097AE92-3DD9-4B96-AC33-40BA50D0AB78}|Tests\\Tests.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\tests\\readertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2097AE92-3DD9-4B96-AC33-40BA50D0AB78}|Tests\\Tests.csproj|solutionrelative:tests\\readertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,21 +38,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LibrarySystem.cs",
+              "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\LibrarySystem.cs",
+              "RelativeDocumentMoniker": "BiblioControl\\LibrarySystem.cs",
+              "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\LibrarySystem.cs",
+              "RelativeToolTip": "BiblioControl\\LibrarySystem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:00:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibrarySystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\Tests\\LibrarySystemTests.cs",
+              "RelativeDocumentMoniker": "Tests\\LibrarySystemTests.cs",
+              "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\Tests\\LibrarySystemTests.cs",
+              "RelativeToolTip": "Tests\\LibrarySystemTests.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAkwLIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:40:19.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Reader.cs",
               "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Reader.cs",
               "RelativeDocumentMoniker": "BiblioControl\\Reader.cs",
               "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Reader.cs",
               "RelativeToolTip": "BiblioControl\\Reader.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAA7wFAAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCkAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:57:16.548Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T21:10:47.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\Tests\\ReaderTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ReaderTests.cs",
+              "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\Tests\\ReaderTests.cs",
+              "RelativeToolTip": "Tests\\ReaderTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:37:23.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\Tests\\BookTests.cs",
+              "RelativeDocumentMoniker": "Tests\\BookTests.cs",
+              "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\Tests\\BookTests.cs",
+              "RelativeToolTip": "Tests\\BookTests.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA7wEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:33:20.851Z"
             },
             {
               "$type": "Document",
@@ -50,35 +119,20 @@
               "RelativeDocumentMoniker": "BiblioControl\\Book.cs",
               "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Book.cs",
               "RelativeToolTip": "BiblioControl\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:53:12.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T19:53:12.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LibrarySystem.cs",
-              "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\LibrarySystem.cs",
-              "RelativeDocumentMoniker": "BiblioControl\\LibrarySystem.cs",
-              "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\LibrarySystem.cs",
-              "RelativeToolTip": "BiblioControl\\LibrarySystem.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAwwCMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:00:09.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Form1.cs",
               "RelativeDocumentMoniker": "BiblioControl\\Form1.cs",
               "ToolTip": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Form1.cs [Design]",
               "RelativeToolTip": "BiblioControl\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T18:40:16.727Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-19T18:40:16.727Z"
             }
           ]
         }

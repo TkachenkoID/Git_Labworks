@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace BiblioControl
 {
-    public class LibrarySystem
+    public class LibrarySystem : ILibrarySystem
     {
         public List<IBook> Books { get; set; }
         public List<IReader> Readers { get; set; }
@@ -30,7 +30,7 @@ namespace BiblioControl
         // Method for registering a new reader
         public bool RegisterReader(IReader reader)
         {
-            if (Readers.Any(r => r.PhoneNumber.Equals(reader.PhoneNumber)) || Readers.Contains(reader))
+            if (Readers.Any(r => r.PhoneNumber.Equals(reader.PhoneNumber)))
             {
                 return false;
             }

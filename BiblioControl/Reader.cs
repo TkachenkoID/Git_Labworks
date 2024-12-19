@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BiblioControl
 {
-    public class Reader
+    public class Reader : IReader
     {
         // Fields for the reader's properties
         private string _name;
@@ -55,7 +55,9 @@ namespace BiblioControl
                 }
                 return _borrowedBooks;
             }
+            set { }
         }
+
 
         // Constructor to initialize a new reader
         public Reader(string name, string address, string phoneNumber)
