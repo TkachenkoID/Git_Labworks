@@ -9,15 +9,18 @@ namespace BiblioControl
     public interface IReader
     {
         // Property for the reader's name
-        string Name { get; }
+        string Name { get; set; }
 
         // Property for the reader's address
-        string Address { get; }
+        string Address { get; set; }
 
         // Property for the reader's contact information
-        string PhoneNumber { get; }
+        string PhoneNumber { get; set; }
 
         // Property for the list of books borrowed by the reader
-        List<IBook> BorrowedBooks { get; }
+        List<IBook> BorrowedBooks { get; set; }
+
+        bool BorrowBook(IBook book);
+        bool ReturnBook(IBook book);
     }
 }

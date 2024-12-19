@@ -1,23 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BiblioControl
+﻿namespace BiblioControl
 {
     public interface IBook
     {
         // Property for the title of the book
-        string Title { get; }
+        string Title { get; set; }
 
         // Property for the author of the book
-        string Author { get; }
+        string Author { get; set; }
 
         // Property for the publication year of the book
-        int PublicationYear { get; }
+        int PublicationYear { get; set; }
 
         // Property to check if the book is available
-        bool IsAvailable { get; }
+        bool IsAvailable { get; set; }
     }
 }

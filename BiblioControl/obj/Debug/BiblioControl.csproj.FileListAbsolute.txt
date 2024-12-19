@@ -1,0 +1,9 @@
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\bin\Debug\BiblioControl.exe.config
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\bin\Debug\BiblioControl.exe
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\bin\Debug\BiblioControl.pdb
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.csproj.AssemblyReference.cache
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.Properties.Resources.resources
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.csproj.GenerateResource.cache
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.csproj.CoreCompileInputs.cache
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.exe
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.pdb
