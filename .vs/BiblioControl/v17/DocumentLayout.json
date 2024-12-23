@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|c:\\users\\dyaha\\desktop\\git_labworks\\bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|c:\\users\\dyaha\\desktop\\git_labworks\\bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|solutionrelative:bibliocontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E225557A-96E1-45CB-ACF4-8FDF71D372F0}|BiblioControl\\BiblioControl.csproj|C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\bibliocontrol\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,11 +40,11 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Form1.cs",
               "RelativeDocumentMoniker": "BiblioControl\\Form1.cs",
@@ -66,8 +66,7 @@
               "RelativeToolTip": "BiblioControl\\LibrarySystem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T19:00:09.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T19:00:09.913Z"
             },
             {
               "$type": "Document",
@@ -79,12 +78,11 @@
               "RelativeToolTip": "BiblioControl\\Reader.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T21:10:47.649Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T21:10:47.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Book.cs",
               "RelativeDocumentMoniker": "BiblioControl\\Book.cs",
@@ -97,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Dyaha\\Desktop\\Git_Labworks\\BiblioControl\\Form1.cs",
               "RelativeDocumentMoniker": "BiblioControl\\Form1.cs",
