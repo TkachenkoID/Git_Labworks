@@ -45,11 +45,11 @@ namespace BiblioControl
         }
 
         // Constructor to initialize a new book
-        public Book(string title, string author, int publicationYear, bool available)
+        public Book(string title, string author, int publicationYear)
         {
             Title = title;
             Author = author;
-            IsAvailable = available;
+            IsAvailable = true;
             PublicationYear = publicationYear;
         }
     }

@@ -138,3 +138,4 @@ C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\bin\Debug\tr\Microsoft.VisualS
 C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
 C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioCo.F10F0304.Up2Date
+C:\Users\Dyaha\Desktop\Git_Labworks\BiblioControl\obj\Debug\BiblioControl.Form1.resources
